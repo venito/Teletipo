@@ -12,7 +12,7 @@
 
 # Install
 **One time for all bots**
--   configure [toffeescript](https://githhttps://github.com/danthareja/node-google-apps-scriptub.com/jiangmiao/toffee-script)
+-   configure [toffeescript](https://github.com/jiangmiao/toffee-script)
 -   configure [node-google-apps-script](https://github.com/danthareja/node-google-apps-script)
 
 **First time when create each bot**
